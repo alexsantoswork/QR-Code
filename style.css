@@ -25,7 +25,7 @@ html {
     flex-direction: column;
     background-color: #ffffffff;
     width: 320px;
-    height: 570px;
+    height: 500px;
     border-radius: 10px;
 }
 
@@ -41,7 +41,6 @@ html {
     display: flex;
     text-align: center;
     flex-direction: column;
-    min-width: 100px;
 }
 
 .titulo {
@@ -55,6 +54,7 @@ html {
     font-weight: 400;
     padding: 0px 20px ;
     color: hsl(216, 15%, 48%);
+    padding-bottom: 20px;
 }
 
 .attribution {
