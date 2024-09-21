@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+
+    .componente {
+        width: 300px;
+    }
+
+    .qrcode {
+        width: 270px;
+        height: 270px;
+    }
+
+    .titulo {
+        font-size: 22px;
+    }
+}
