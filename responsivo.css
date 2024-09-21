@@ -10,6 +10,10 @@
     }
 
     .titulo {
-        font-size: 22px;
+        font-size: 19px;
+    }
+
+    .paragrafo {
+        font-size: 14px;
     }
 }
